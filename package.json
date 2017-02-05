@@ -1,0 +1,14 @@
+{
+  "name": "anitomyjs-example",
+  "version": "0.0.0",
+  "description": "Example project for anitomyjs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Thomas Farr <xtansia@xtansia.com> (https://xtansia.com)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "anitomyjs": "^1.4.2",
+    "moment": "^2.17.1",
+    "xml-stream": "^0.4.5"
+  }
+}
